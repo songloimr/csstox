@@ -23,17 +23,6 @@ const Header = () => {
           <p data-testid="header-message">
             Easily convert CSS text to {outputType} stylesheet objects.
           </p>
-          <p>
-            &copy; 2020{" "}
-            <a
-              href="https://github.com/jamesgeorge007"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              {" "}
-              James George{" "}
-            </a>
-          </p>
         </div>
       </div>
     </header>
